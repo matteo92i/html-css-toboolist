@@ -8,7 +8,7 @@
 .bannerB{
     background:white;
     width: 100%;
-    height: 100px;
+    height: 35%;
 }
 #logo{
     vertical-align: middle;
@@ -32,9 +32,16 @@
     height: 100%;
  
 }
-.box{
+#box{
+    box-sizing: border-box;
     
-    background: pink;
-    width:1200px ;
-    height: 60%;
+    background:white;
+    width: 600px;
+    height: 550px;
+    margin: auto;
+    margin-top: 50px;
+    
+    
+
+    
 }
