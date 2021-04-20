@@ -45,3 +45,13 @@
 
     
 }
+#bottonblu{
+    border: 4px solid blue;
+    width: 90px;
+    height: 30px;
+    background: blue;
+    text-align: center;
+    margin: 55px 25px 10px;
+
+    
+}
