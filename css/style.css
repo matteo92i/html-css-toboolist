@@ -37,7 +37,7 @@
     
     background:white;
     width: 600px;
-    height: 550px;
+    height: 750px;
     margin: auto;
     margin-top: 50px;
     
@@ -46,12 +46,32 @@
     
 }
 #bottonblu{
+    border-radius: 10%;
     border: 4px solid blue;
     width: 90px;
     height: 30px;
     background: blue;
     text-align: center;
-    margin: 55px 25px 10px;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+    
 
     
+#coloretesto{
+    color: white;
 }
+#bottonbianco{
+    
+    border-radius: 10%;
+    border: 1px solid grey;
+    width: 90px;
+    height: 30px;
+    background:white;
+    text-align: center;
+    margin-left: 35px;
+
+}
+#colore-text{
+    color: grey;
+}    
